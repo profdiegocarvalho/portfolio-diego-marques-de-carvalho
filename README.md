@@ -11,11 +11,11 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Professor e Pesquisador, unindo Pedagogia, Ciência da Computação e Inteligência Artificial. Doutorando em Ensino de Ciências e Matemática (UFABC), Mestre em Ciência da Computação (UFABC) e com MBA em Inteligência Artificial eAnalytics. Minha prática profissional une a sensibilidade pedagógica, adquirida na graduação em Pedagogia, com competências digitais avançadas. Tenho sólida experiência na formação de estudantes em pensamento computacional, programação, Ciência de Dados e metodologias ativas como STEAM. Atualmente, sou professor no Centro Universitário Fundação Santo André (CUFSA), na Universidade Cidade de São Paulo (UNICID) e no Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS). Minha trajetória inclui a coordenação de Núcleos de Educação a Distância (EAD) e o desenvolvimento de projetos pedagógicos que valorizam a autonomia e a curiosidade. Possuo experiência prática no desenvolvimento de jogos digitais , softwares para dispositivos móveis e internet, e no ensino de linguagens como Python e R. 
  
-* **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
+* **Habilidades Técnicas:** HTML, CSS, JavaScript, Python, R, Scala, Java, PHP, SQL, AWS, Google Cloud, Docker.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Liderei projetos e consultorias de software para grandes marcas como Banco do Brasil, iG e Aymoré Financeira. Orientador do MBA da USP em Engenharia de Software.
  
 ---
  
