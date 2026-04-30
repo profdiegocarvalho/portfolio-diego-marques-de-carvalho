@@ -22,4 +22,4 @@ O projeto serviu para aplicar e consolidar conceitos estruturais de lógica de p
 4. Siga as instruções no terminal para inserir os valores das vendas e interagir com o sistema.
 
 ---
-[Voltar ao início](https://github.com/profdiegocarvalho)
+[Voltar ao início](https://github.com/profdiegocarvalho/portfolio-diego-marques-de-carvalho)
