@@ -75,6 +75,7 @@ Professor e Pesquisador, unindo Pedagogia, Ciência da Computação e Inteligên
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Algoritmo de Auditoria de Dados** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto-algoritmo-de-auditoria-de-dados/) |
+| **Auditoria de Orçamentos Corporativos** | Um programa que analisa a consistência de dados financeiros, utilizando escopo global/local para parâmetros de segurança e lógica condicional para detecção de anomalias. | [Ver Projeto](./projeto_sistema_de_auditoria/) |
  
 ---
  
