@@ -1,0 +1,6 @@
+{
+  "name": "NeuroInsight: ALS/ELA Clinical & Molecular Dashboard",
+  "description": "Advanced dashboard for ALS (ELA) research, featuring AlphaFold protein visualization, clinical analytics (ALSFRS-R, FVC), and biometric monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

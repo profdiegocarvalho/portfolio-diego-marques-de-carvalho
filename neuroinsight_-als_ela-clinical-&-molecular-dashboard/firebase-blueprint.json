@@ -1,0 +1,58 @@
+{
+  "entities": {
+    "Researcher": {
+      "title": "Researcher",
+      "description": "Medical professional or researcher using the platform",
+      "type": "object",
+      "properties": {
+        "userId": { "type": "string" },
+        "email": { "type": "string" },
+        "name": { "type": "string" },
+        "role": { "type": "string", "enum": ["admin", "researcher"] }
+      },
+      "required": ["userId", "email", "name"]
+    },
+    "Patient": {
+      "title": "Patient",
+      "description": "Anonymized patient profile for clinical research",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "initials": { "type": "string" },
+        "diagnosisDate": { "type": "string", "format": "date" },
+        "geneticProfile": { "type": "string" },
+        "status": { "type": "string", "enum": ["active", "deceased", "transferred"] }
+      },
+      "required": ["id", "initials", "diagnosisDate"]
+    },
+    "ClinicalEntry": {
+      "title": "Clinical Entry",
+      "description": "Periodic measurements for a specific patient",
+      "type": "object",
+      "properties": {
+        "patientId": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" },
+        "alsfrs_total": { "type": "number" },
+        "fvc_percent": { "type": "number" },
+        "weight_kg": { "type": "number" },
+        "vni_status": { "type": "boolean" },
+        "peg_status": { "type": "boolean" }
+      },
+      "required": ["patientId", "timestamp", "alsfrs_total"]
+    }
+  },
+  "firestore": {
+    "/researchers/{userId}": {
+      "schema": "Researcher",
+      "description": "Profiles of system users"
+    },
+    "/patients/{patientId}": {
+      "schema": "Patient",
+      "description": "Main patient records"
+    },
+    "/patients/{patientId}/entries/{entryId}": {
+      "schema": "ClinicalEntry",
+      "description": "Clinical measurements over time"
+    }
+  }
+}
