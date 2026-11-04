@@ -1,5 +1,5 @@
-# [Seu Nome Completo]
-> Estudante de [Nome do Curso - ex: Ciência da Computação]
+# DIEGO MARQUES DE CARVALHO
+> Licenciado em Matemática, Mestre em Ciência da Computação e Doutor em Ensino e História das Ciências e da Matemática
 
 ---
 
